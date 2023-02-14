@@ -1,0 +1,38 @@
+Ans1->Guido van Rossum developed by python programming language.
+Ans2->Object oriented programming and structural programming support python.
+Ans3-> Yes python support case-sensitive because upper and lower character differently
+       treat.
+Ans4->Dot (.py) is the correct extention of a python file.
+Ans5->python is a interpeted language.
+Ans6-> sum of add two number 
+       
+        a=int(input("enter first number")
+        b=int(input("enter second number")
+        sum=a+b
+        print("sum=",sum)
+Ans7->'#' character used single line comment in python language.
+ans8->sys.version help to find a currently version of python.
+Ans9->python support creation of anobnymous function using a construct called lambda.
+Ans10->pip stand for prefferred installer program.
+Ans11->Few built in function in python program are:
+      1:print()
+      2:input()
+      3:lambda function
+      4:len()
+      5:sort()
+Ans12->79 character maximum possible length of identifiers.
+Ans13->The benefit of using python to easily learn-Data Science,machine Learning,finance,
+        web development,computer vision ,testing etc.
+Ans14->Memory mamagement in python involes a private heap containing all python object
+       and data structure.
+Ans15->First,we need to locate where the python being installed after downloading it.
+       Press window key and searh on "python".If no resut appear then python is not 
+       installed on your machine,download it before processing futher.Click on open 
+       file location and you will be a location where python is installed.Copy the location
+       path from the top by the clicking over it.Now we have to add the above copy path
+       as a variable so that windows can recognize.Search for environment variable.
+       Now the click environment variable button click on new button in the user section
+      and add a variable name and path which we copied previously and click ok.That it's
+      done.Check if the envionment variable set or not open cmd and type python.If the
+      environment variable is set then the python will run otherwise not.
+Ans16->Yes indentation required in python.
